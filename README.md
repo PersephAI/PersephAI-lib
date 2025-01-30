@@ -1,4 +1,4 @@
-![PersephAI-lib](persephai.jpg)
+![PersephAI-lib](persephai_ban.png)
 
 # README.md
 
