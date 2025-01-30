@@ -98,7 +98,7 @@ The PersephAI library is open-source software licensed under the MIT License. Se
 
 ## Contact
 
-For questions, feedback, or support, please contact the project maintainer at [email@example.com].
+For questions, feedback, or support, please contact the project maintainer at [contact@persephai.ai].
 
 ## Acknowledgments
 
