@@ -77,7 +77,7 @@ persephai = PersephAI(api_key, private_key)
 Once the PersephAI instance is initialized, you can use it to process natural language commands and execute transactions on the Solana blockchain. The library will handle parsing, mapping, and constructing the necessary transaction instructions.
 
 ```python
-command = "Transfer 10 SOL to address XYZ"
+command = "Transfer x SOL to address XYZ"
 transaction_function = persephai.generate(command)
 
 # Execute the transaction
